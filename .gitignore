@@ -1,0 +1,17 @@
+# Copyright 2016-2021 The Khronos Group Inc.
+# SPDX-License-Identifier: Apache-2.0
+
+# Project files
+*.cmake
+*.vcxproj
+*.tlog
+*.log
+*.db
+*.obj
+/Debug
+/Release
+/GeoIntersection/Debug
+/GeoIntersection/Release
+/.vs/*
+*.user
+*.filters
